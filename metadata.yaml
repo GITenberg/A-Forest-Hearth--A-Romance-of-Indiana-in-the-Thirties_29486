@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4202
     wikipedia: http://en.wikipedia.org/wiki/Charles_Major
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29486#A-Forest-Hearth--A-Romance-of-Indiana-in-the-Thirties
 gutenberg_issued: '2009-07-22'
 gutenberg_type: Text
 identifiers:
